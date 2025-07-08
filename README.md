@@ -24,7 +24,7 @@
 // src/i18n.js
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
-import LanguageDetector from 'i18next-browser-languagedetector';
+import LanguageDetector from 'i18next-browser-languagedetector';[谷歌](https://www.google.com)
 
 const resources = {
   en: { translation: { welcome: "Welcome to SayHi🌍", intro: "Meet the world, one chat at a time." }},
