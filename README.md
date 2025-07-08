@@ -180,3 +180,9 @@ npm install react react-dom react-router-dom i18next react-i18next i18next-brows
   "build": "react-scripts build"
 }
 npm start
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/你的用户名/sayhi-app.git
+git push -u origin main
